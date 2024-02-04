@@ -1,0 +1,258 @@
+{
+  "radios": [
+    {
+      "id": 1,
+      "title": "Kiss - 98 FM",
+      "description": "Hrajeme ti to nejlepší od 90. let a bavíme tě ve dne v noci. Be happy.",
+      "genre": "Pop",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://icecast4.play.cz/kiss128.mp3",
+      "image": "./assets/images/logo-radio-kiss-sm.png"
+    },
+    {
+      "id": 2,
+      "title": "Hey radio",
+      "description": "Radio HEY je jedno z posledních nezávislých rádií v České republice. Rádio pro Vás vytváří parta nadšenců, kterým jde o to vrátit rádiu jeho původní výzanm a poslání. Vracíme rádio hudbě! Radio HEY hraje výběrový mix hudby složený převážně z melodického rocku, kavlitního Rock&Popu a to nejlepší z 80' a 90' let až po současnost.",
+      "genre": "Pop",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://icecast3.play.cz/hey-radio128.mp3",
+      "image": "./assets/images/logo-radio-hey-sm.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Radio Dixie",
+      "description": "RadioDixie.cz je jediný internetový portál, kde se o Americe dozvíte úplně všechno. K poslechu rádia se špičkovou muzikou si můžete přečíst spoustu zajímavých článků, které se týkají historie, současnosti, umění, aut i motorek. Amerika nás baví!",
+      "genre": "Rock, Pop",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://icecast8.play.cz/radiodixie192.mp3",
+      "image": "./assets/images/logo-radio-dixie-sm.png"
+    },
+    {
+      "id": 4,
+      "title": "Hitrádio FM (Severní Čechy)",
+      "description": "Máme srdce, které hraje pro severní Čechy.",
+      "genre": "Pop",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://ice.abradio.cz/hitradiofm128.mp3",
+      "image": "./assets/images/logo-radio-hitRadioNortMusic-sm.png"
+      
+    },
+    {
+      "id": 5,
+      "title": "COOP TIP Radio",
+      "description": "Příjemná hudba pro pohodový nákup.",
+      "genre": "Pop",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://ice4.abradio.cz/coop128.mp3",
+      "image": "./assets/images/logo-radio-COOP-sm.png"
+    },
+    {
+      "id": 6,
+      "title": "Rock Radio",
+      "description": "Jsme první rockové rádio na severu Čech.",
+      "genre": "Rock",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://ice.abradio.cz/rockradio128.mp3",
+      "image": "./assets/images/logo-radio-rock-sm.png"
+    },
+    {
+      "id": 7,
+      "title": "Hitrádio Osmdesátka",
+      "description": "Osmdesátka - Nejvĕtší hity 80. let (Hitrádio 80tka).",
+      "genre": "Pop",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://ice.abradio.cz/hit80128.mp3",
+      "image": "./assets/images/logo-radio-osmdesatka-sm.png"
+    },
+    {
+      "id": 8,
+      "title": "Hitrádio Zóna Lásky",
+      "description": "Na webové Zóně lásky můžete celý den poslouchat zamilované balady a hity o lásce.",
+      "genre": "Love",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://ice.abradio.cz/hitzl128.mp3",
+      "image": "./assets/images/logo-radio-zonalasky-sm.png"
+    },
+    {
+      "id": 9,
+      "title": "Fajn Rádio",
+      "description": "Fajn Rádio",
+      "genre": "Pop",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://ice.abradio.cz/fajn128.mp3",
+      "image": "./assets/images/logo-fajn-radio-sm.png"
+    },
+    {
+      "id": 10,
+      "title": "Radio 66",
+      "description": "Vítejte na stránkách Radia 66. Jsme tady pro všechny milovníky Route 66 - nejslavnější silnice světa, hlavní ulice Ameriky, Matky všech cest a pro všechny kdo mají rádi romantiku, Ameriku a pořádnou americkou muziku.RADIO 66 - THE BEST MUSIC ON THE ROAD!",
+      "genre": "Rock, country",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://ice3.abradio.cz/route128.mp3",
+      "image": "./assets/images/logo-radio-66-sm.png"
+    },
+    {
+      "id": 11,
+      "title": "Country Radio",
+      "description": "... klidné rádio do neklidné doby",
+      "genre": "Country",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://icecast4.play.cz/country128.mp3",
+      "image": "./assets/images/logo-country-radio-sm.png"
+    },
+    {
+      "id": 12,
+      "title": "Radio Blaník",
+      "description": "Pohodové české rádio",
+      "genre": "Pop",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://ice.abradio.cz/blanikfm128.mp3",
+      "image": "./assets/images/logo-radio-blanik-sm.png"
+    },
+    {
+      "id": 13,
+      "title": "Frekvence 1",
+      "description": "Frekvence 1",
+      "genre": "Pop",
+      "country": "Česká republika",
+      "language": "Czech",
+      "sources": "https://ice.actve.net/fm-frekvence1-128",
+      "image": "./assets/images/logo-frekvence-1-sm.png"
+    },
+    {
+      "id": 14,
+      "title": "KPLO 94.5 FM Reliance, SD",
+      "description": "94 USA Country Music.",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://ice23.securenetsystems.net/KPLO",
+      "image": "./assets/images/logo-radio-KPLO-sm.png"
+    },
+    {
+      "id": 15,
+      "title": "KIOK 94.9 FM Richland, WA",
+      "description": "94.9 The Wolf - Today's new country for the great Northwest.",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://ice6.securenetsystems.net/KIOK?",
+      "image": "./assets/images/logo-radio-KIOK-sm.png"
+    },
+    {
+      "id": 16,
+      "title": "WIOV 105.1 FM Ephrata, PA",
+      "description": "The Big I 105 - Pennsylvania's Country Leader.",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://playerservices.streamtheworld.com/api/livestream-redirect/WIOVFM.mp3",
+      "image": "./assets/images/logo-WIOV-105-sm.png"
+    },
+    {
+      "id": 17,
+      "title": "WWOZ 90.7 FM New Orleans, LA",
+      "description": "New Orleans' Jazz and Heritage Station.",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
+      "image": "./assets/images/logo-radio-newOrleans-sm.png"
+    },
+    {
+      "id": 18,
+      "title": "Dash Radio - The Ranch",
+      "description": "Dash Radio - The Ranch.",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://ice55.securenetsystems.net/DASH13?",
+      "image": "./assets/images/logo-dash-radio-country-sm.png"
+    },
+    {
+      "id": 19,
+      "title": "WSM 650 AM Nashville, TN",
+      "description": "650 AM WSM - Nashville's Country Legend.",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://stream01048.westreamradio.com/wsm-am-mp3",
+      "image": "./assets/images/logo-radio-WSM-sm.png"
+    },
+    {
+      "id": 20,
+      "title": "KDAK 1600 AM Carrington, ND",
+      "description": "KDAK 1600 AM Carrington, ND New Country.",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://ice23.securenetsystems.net/KDAK",
+      "image": "./assets/images/logo-radio-KDAK-sm.png"
+    },
+    {
+      "id": 21,
+      "title": "WFGF 92.1 FM Wapakoneta, OH",
+      "description": "The Frog - Your Home for New Country!",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://crystalout.surfernetwork.com:8001/WFGF-FM_MP3",
+      "image": "./assets/images/logo-radio-WFGF-sm.png"
+    },
+    {
+      "id": 22,
+      "title": "KDDR 1220 AM Oakes, ND",
+      "description": "KDDR 1220 AM Oakes, ND.",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://ice23.securenetsystems.net/KDDR",
+      "image": "./assets/images/logo-radio-KDDR-sm.png"
+    },
+    {
+      "id": 23,
+      "title": "KOVC 1490 AM Valley City, ND",
+      "description": "KOVC 1490 AM Valley City, ND.",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://ice23.securenetsystems.net/KOVC",
+      "image": "./assets/images/logo-radio-KOVC-sm.png"
+    },
+    {
+      "id": 24,
+      "title": "181.fm - 90's Country",
+      "description": "Channel \"90's Country\" of internet radio 181.fm.",
+      "genre": "Country",
+      "country": "USA",
+      "language": "English",
+      "sources": "https://listen.181fm.com/181-90scountry_128k.mp3",
+      "image": "./assets/images/logo-radio-country-90-sm.png"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
